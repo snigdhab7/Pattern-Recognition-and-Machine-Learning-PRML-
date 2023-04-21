@@ -1,12 +1,12 @@
 # Pattern-Recognition-and-Machine-Learning-PRML-
-(1) The Dataset1.csv data-set has 1000 data points generated from a mixture of some distribution.
+<b>(1)</b> The <i>"Dataset1.csv"</i> data-set has 1000 data points generated from a mixture of some distribution.
+<p>
+  <b>(i)</b> File <i>"Sol(1)(i).py"</i> is a code to determine which probabilisitic mixture could have generated this data. The EM algorithm is derived by setting the       number of mixtures K = 4. The log-likelihood is plotted below. [averaged over 100 random initializations as a function of iterations]
+  </p>
+  ![Uploading image.png…]()
 
-  (i) File XX is a code to determine which probabilisitic mixture could have generated this data. The EM algorithm is derived by setting the number of mixtures K = 4.           The log-likelihood is plotted in File XX.
-  
-    (averaged over 100 random initializations) as a function of iterations.
     
-  (ii) Assume that the same data was infact generated from a mixture of Gaussians
-with 4 mixtures. Implement the EM algorithm and plot the log-likelihood (averaged over 100 random initializations of the parameters) as a function of iterations.
+  <b>(ii)</b> Assuming that the data was generated from a mixture of Gaussians with 4 mixtures. Implement the EM algorithm and plot the log-likelihood (averaged over           100 random initializations of the parameters) as a function of iterations.
 How does the plot compare with the plot from part (i)? Provide insights that
 you draw from this experiment.
 iii. Run the K-means algorithm with K = 4 on the same data. Plot the objective of
