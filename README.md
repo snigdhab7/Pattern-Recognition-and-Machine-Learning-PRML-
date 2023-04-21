@@ -1,5 +1,5 @@
 # Pattern-Recognition-and-Machine-Learning-PRML-
-(1) The A2Q1.csv data-set has 1000 data points generated from a mixture of some distribution.
+(1) The Dataset1.csv data-set has 1000 data points generated from a mixture of some distribution.
 
   (i) File XX is a code to determine which probabilisitic mixture could have generated this data. The EM algorithm is derived by setting the number of mixtures K = 4.           The log-likelihood is plotted in File XX.
   
