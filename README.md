@@ -12,8 +12,8 @@
   ![image](https://user-images.githubusercontent.com/62890614/233840719-8f86dc65-1fe6-46a7-9e95-bea032b85883.png)
   ![image](https://user-images.githubusercontent.com/62890614/233840734-b419dd11-58b6-45d6-b267-52f3cd2619e5.png)
   
-iii. Run the K-means algorithm with K = 4 on the same data. Plot the objective of
-K − means as a function of iterations.
+  <b>(iii)</b> File <i>"Sol(1)(iii).py"</i> runs the K-means algorithm with K = 4 on the same data. Plot the objective of K − means as a function of iterations.
+  
 iv. Among the three different algorithms implemented above, which do you think
 you would choose to for this dataset and why?
 (2) You are given a data-set in the file A2Q2Data train.csv with 10000 points in (R
