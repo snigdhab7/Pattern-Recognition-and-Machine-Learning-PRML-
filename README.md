@@ -26,6 +26,7 @@
 
   <b>(ii)</b> File <i>"Sol(2)(ii).py"</i>codes the stochastic gradient descent algorithm using batch size of 100 and plot kwt − wMLk2 as a function of t. 
 
-  <b>(iii)</b> File <i>"Sol(2)(iii).py"</i> codes the gradient descent algorithm for ridge regression. Cross-validate for various choices of λ and plot the error in    the validation set as a function of λ. For the best λ chosen, obtain wR. Compare the test error (for the test data in the file Data_test2.csv) of wR with wML. Which is better and why?
-    </p>
-</p>
+  <b>(iii)</b> File <i>"Sol(2)(iii).py"</i> codes the gradient descent algorithm for ridge regression. Cross-validate for various choices of λ and plot the error in    the validation set as a function of λ. For the best λ chosen, obtain wR. Compare the test error (for the test data in the file Data_test2.csv) of wR with wML.
+  
+  ![image](https://user-images.githubusercontent.com/62890614/233842221-ca20e5b8-2cf2-4b4c-bf47-b45a3d642480.png)
+</p></p>
