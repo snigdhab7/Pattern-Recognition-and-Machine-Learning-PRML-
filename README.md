@@ -14,8 +14,8 @@
   
   <b>(iii)</b> File <i>"Sol(1)(iii).py"</i> runs the K-means algorithm with K = 4 on the same data. Plot the objective of K − means as a function of iterations.
   
-iv. Among the three different algorithms implemented above, which do you think
-you would choose to for this dataset and why?
+  <b>In this dataset, I found EM and that too the exponential one is providing to be better suited.</b>
+ </p>
 (2) You are given a data-set in the file A2Q2Data train.csv with 10000 points in (R
 100
 , R)
