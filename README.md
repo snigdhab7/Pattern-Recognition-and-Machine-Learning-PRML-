@@ -20,9 +20,10 @@
 <b>(2)</b> The <i>"Dataset2.csv"</i> data-set has 10000 points in (R100, R) (Each row corresponds to a datapoint where the first 100 components are features and the        last component is the associated y value).
   <p>
   <b>(i)</b> File <i>"Sol(2)(i).py"</i> codes the gradient descent algorithm with suitable step size to solve the least squares algorithms and plot kwt − wMLk2 as a      function of t.
-    
-    ![image](https://user-images.githubusercontent.com/62890614/233841726-c2f0e4f1-0bd8-40d4-98dd-76a43ad1aae3.png)  
-    
+ </br>
+
+![image](https://user-images.githubusercontent.com/62890614/233841787-3b242f9d-1a17-4535-924c-745fdf7603b6.png)
+
 iii. Code the stochastic gradient descent algorithm using batch size of 100 and plot
 kwt − wMLk2 as a function of t. What are your observations?
 iv. Code the gradient descent algorithm for ridge regression. Cross-validate for various choices of λ and plot the error in the validation set as a function of λ. For
