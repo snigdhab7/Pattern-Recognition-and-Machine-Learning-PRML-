@@ -16,11 +16,9 @@
   
   <b>In this dataset, I found EM and that too the exponential one is providing to be better suited.</b>
  </p>
-(2) You are given a data-set in the file A2Q2Data train.csv with 10000 points in (R
-100
-, R)
-(Each row corresponds to a datapoint where the first 100 components are features and
-the last component is the associated y value).
+ <p>
+<b>(2)</b> The <i>"Dataset2.csv"</i> data-set has 10000 points in (R100, R) (Each row corresponds to a datapoint where the first 100 components are features and the        last component is the associated y value).
+  <p>
 i. Obtain the least squares solution wML to the regression problem using the analytical solution.
 ii. Code the gradient descent algorithm with suitable step size to solve the least
 squares algorithms and plot kwt − wMLk2 as a function of t. What do you
@@ -30,3 +28,5 @@ kwt − wMLk2 as a function of t. What are your observations?
 iv. Code the gradient descent algorithm for ridge regression. Cross-validate for various choices of λ and plot the error in the validation set as a function of λ. For
 the best λ chosen, obtain wR. Compare the test error (for the test data in the
 file A2Q2Data test.csv) of wR with wML. Which is better and why
+    </p>
+</p>
