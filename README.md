@@ -1,4 +1,4 @@
-# Pattern-Recognition-and-Machine-Learning-PRML-
+# Pattern Recognition and Machine Learning (PRML)
 <b>(1)</b> The <i>"Dataset1.csv"</i> data-set has 1000 data points generated from a mixture of some distribution.
 <p>
   <b>(i)</b> File <i>"Sol(1)(i).py"</i> is a code to determine which probabilisitic mixture could have generated this data. The EM algorithm is derived by setting the       number of mixtures K = 4. The log-likelihood is plotted below. [averaged over 100 random initializations as a function of iterations]
