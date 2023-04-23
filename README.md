@@ -3,9 +3,10 @@
 <p>
   <b>(i)</b> File <i>"Sol(1)(i).py"</i> is a code to determine which probabilisitic mixture could have generated this data. The EM algorithm is derived by setting the       number of mixtures K = 4. The log-likelihood is plotted below. [averaged over 100 random initializations as a function of iterations]
   </p>
-  ![Uploading image.png…]()
+  
+  ![image](https://user-images.githubusercontent.com/62890614/233840589-a49a7481-d081-47fc-a9df-0eb0e6a71350.png)
 
-    
+
   <b>(ii)</b> Assuming that the data was generated from a mixture of Gaussians with 4 mixtures. Implement the EM algorithm and plot the log-likelihood (averaged over           100 random initializations of the parameters) as a function of iterations.
 How does the plot compare with the plot from part (i)? Provide insights that
 you draw from this experiment.
