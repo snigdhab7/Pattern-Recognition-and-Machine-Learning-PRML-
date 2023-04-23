@@ -8,6 +8,7 @@
 
 
   <b>(ii)</b> Assuming that the data was generated from a mixture of Gaussians with 4 mixtures. File <i>"Sol(1)(ii).py"</i> implements an EM algorithm and plot the log        likelihood (averaged over 100 random initializations of the parameters) as a function of iterations.
+  
   ![image](https://user-images.githubusercontent.com/62890614/233840691-a2750217-4bee-470e-982f-6bd33ded6b07.png)
   ![image](https://user-images.githubusercontent.com/62890614/233840719-8f86dc65-1fe6-46a7-9e95-bea032b85883.png)
   ![image](https://user-images.githubusercontent.com/62890614/233840734-b419dd11-58b6-45d6-b267-52f3cd2619e5.png)
